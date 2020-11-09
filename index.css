@@ -1,0 +1,268 @@
+body{
+	background-image: url("Bg.png");
+	 
+}
+a{
+  text-decoration:none;
+}
+.start img{
+	width: 400px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+  	position: relative;
+}
+.start p{
+  position: absolute;
+    top: 1300px;
+    left: 550px;
+    font-size: 50px;
+}
+.two img{
+	width:600px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+
+.txt{
+	position: absolute;
+  	top: 500px;
+  	left: 400px;
+  	font-size: 50px;
+}
+.two .two-one img{
+	width: 250px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:100px;
+  	left:600px;
+}
+
+.btn img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	height:70px;
+}
+.btn .txt1{
+	position: absolute;
+	top: 980px;
+  	left: 650px;
+  	font-size:27px; 
+
+  	color:#fff;
+}
+.btn .txt2{
+	position: absolute;
+	top: 1020px;
+  	left: 600px;
+  	font-size:15px;
+}
+.btn2 img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	height:63px;
+}
+.btn3 img{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	height:63px;
+}
+.btn2 p{
+	position: absolute;
+	top: 1090px;
+  	left: 630px;
+  	font-size:15px;
+}
+.btn3 p{
+	position: absolute;
+	top: 1170px;
+  	left: 630px;
+  	font-size:15px;
+}
+.btn3 a{
+	position: absolute;
+	top: 1185px;
+  	left: 810px;
+  	font-size:15px;
+}
+.three img{
+	width:600px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 50%;
+}
+.three .three-one img{
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width: 250px;
+  	position:absolute;
+  	top:100px;
+  	left:600px;
+}
+.container2 p{
+	position: absolute;
+	top: 700px;
+  	left: 370px;
+  	font-size:35px;
+}
+.container2 .btn1 img{
+	width:600px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width:40%;
+  	position:absolute;
+  	top:800px;
+  	left:370px;
+}
+
+
+.container2 .btn1 .txt1 img{
+	width:45px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:810px;
+  	left:380px;
+} 
+.container2 .btn1 .txt1 a{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:820px;
+  	left:480px;
+  	font-size: 25px;
+  	text-decoration:none;
+  	color:black;
+} 
+
+.container2 .btn2 img{
+	width:600px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width:40%;
+  	position:absolute;
+  	top:900px;
+  	left:370px;
+}
+.container2 .btn2 .txt2 img{
+	width:45px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:910px;
+  	left:380px;
+}
+.container2 .btn2 .txt2 p{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:880px;
+  	left:480px;
+}  
+
+.container2 .btn3 img{
+	width:600px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width:40%;
+  	position:absolute;
+  	top:1000px;
+  	left:370px;
+}
+.container2 .btn3 .txt3 img{
+	width:45px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:1010px;
+  	left:380px;
+}
+.container2 .btn3 .txt3 p{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:980px;
+  	left:480px;
+}  
+.container2 .btn4 img{
+	width:600px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width:40%;
+  	position:absolute;
+  	top:1100px;
+  	left:370px;
+}
+.container2 .btn4 .txt4 img{
+	width:50px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:1110px;
+  	left:380px;
+}
+.container2 .btn4 .txt4 p{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:1080px;
+  	left:480px;
+} 
+.container2 .foot p{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:1180px;
+  	left:530px;
+  	font-size:25px;
+}
+.container2 .foot a{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	position:absolute;
+  	top:1250px;
+  	left:570px;
+}
+
+
+
+
+
+

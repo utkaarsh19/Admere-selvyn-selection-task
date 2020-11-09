@@ -1,0 +1,312 @@
+body{
+  background-image: url("Bg.png");
+   
+}
+a{
+  text-decoration:none;
+}
+.four img{
+  width:600px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.four .four-one img{
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+    position:absolute;
+    top:100px;
+    left:600px;
+}
+
+.container3 .btnq img{
+	width:600px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width:40%;
+  	position:absolute;
+  	top:800px;
+  	left:370px;
+}
+
+.container3 h2{
+	position: absolute;
+	top: 700px;
+  	left: 370px;
+  	font-size:35px;
+}
+.container3 .pa p{
+	position: absolute;
+	top: 750px;
+  	left: 370px;
+  	font-size:20px;
+}
+
+.container3 .btnw img{
+	width:600px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width:40%;
+  	position:absolute;
+  	top:970px;
+  	left:370px;
+}
+
+.ver h2{
+	display: block;
+  	position:absolute;
+  	top:880px;
+  	left:370px;
+}
+
+.ver p{
+	font-size:15px;
+	display: block;
+  	position:absolute;
+  	top:920px;
+  	left:370px;
+}
+.ver h2{
+  
+  display: block;
+    position:absolute;
+    top:860px;
+    left:370px;
+}
+.btnw img{
+	width:100px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
+  	position:absolute;
+  	top:800px;
+  	left:370px;
+}
+.btnw p{
+  display: block;
+    position:absolute;
+    top:1030px;
+    left:370px;
+}
+.btnw .res p{
+  display: block;
+    position:absolute;
+    top:1030px;
+    left:750px;
+}
+.btnw .res a{
+  display: block;
+    position:absolute;
+    top:1045px;
+    left:900px;
+}
+
+.btnw .u img{
+	width:20px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
+  	position:absolute;
+  	top:1000px;
+  	left:400px;
+}
+.btnw .v img{
+	width:20px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
+  	position:absolute;
+  	top:1000px;
+  	left:430px;
+}
+.btnw .w img{
+	width:20px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
+  	position:absolute;
+  	top:1000px;
+  	left:460px;
+}
+.btnw .x img{
+	width:20px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
+  	position:absolute;
+  	top:1000px;
+  	left:490px;
+}
+.btnw .y img{
+	width:20px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	
+  	position:absolute;
+  	top:1000px;
+  	left:520px;
+}
+
+.container3 .btne img{
+	width:600px;
+	height: auto;
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+  	width:40%;
+  	position:absolute;
+  	top:800px;
+  	left:370px;
+}
+.btnp p{
+  font-size:15px;
+  display: block;
+    position:absolute;
+    top:1090px;
+    left:600px;
+    color: #fff;
+    font-size:30px;
+}
+.btnp img{
+  width:600px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:40%;
+    position:absolute;
+    top:1100px;
+    left:370px;
+}
+
+.btnq .num1 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position:absolute;
+    top:820px;
+    left:520px;
+}
+.btnq .num2 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position:absolute;
+    top:820px;
+    left:540px;
+}
+.btnq .num3 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position:absolute;
+    top:820px;
+    left:560px;
+}
+.btnq .num4 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position:absolute;
+    top:820px;
+    left:580px;
+}
+
+.btnq .num5 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position:absolute;
+    top:820px;
+    left:600px;
+}
+.btnq .num6 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position:absolute;
+    top:820px;
+    left:620px;
+}
+.btnq .num7 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position:absolute;
+    top:820px;
+    left:640px;
+}
+.btnq .num8 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position:absolute;
+    top:820px;
+    left:660px;
+}
+.btnq .num9 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    position:absolute;
+    top:820px;
+    left:680px;
+}
+.btnq .num10 img{
+width:20px;
+  height: auto;
+  display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position:absolute;
+    top:820px;
+    left:700px;
+}
